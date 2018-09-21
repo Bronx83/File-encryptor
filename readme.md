@@ -1,4 +1,5 @@
-There are two scripts in this repository:
+DEPRECATED, WORKING ON A BETTER VERSION, THIS ONE IS WRITTEN BAD AF.
+
 * Must do 'pip install cryptography'
 * The program creates a table with the folder and the key used under a folder named '/Encrypted Folders'
   that should be located in the folder of the script.
